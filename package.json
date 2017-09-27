@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/lei14370/buildOnePreject#readme",
   "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.18.2",
     "webpack": "^3.6.0"
   }
 }
